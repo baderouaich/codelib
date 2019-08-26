@@ -1,5 +1,5 @@
 # CodeLib
-Programming books Flutter App using ITBOOK API 
+Programming books App using Flutter & ITBOOK API 
 
 
 ## How to run
