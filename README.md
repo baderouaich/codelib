@@ -1,5 +1,5 @@
 # CodeLib
-Programming books Flutter App using ITBOOK API 
+Programming books App using Flutter & ITBOOK API 
 
 
 ## How to run
@@ -12,7 +12,7 @@ Run Commands:
 
 Here is the [Latest ITBOOK Data API][ITBOOK].
 
-[ITBOOK]: https://api.itbook.store/1.0
+[ITBOOK]: https://api.itbook.store/
 
 
 ## Features and bugs
