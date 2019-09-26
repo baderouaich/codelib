@@ -39,7 +39,6 @@ class _CodeState extends State<Code> with SingleTickerProviderStateMixin {
         title: "code.dart",
         codePath: "assets/code/code.txt",
         syntaxTheme: selectedSyntaxTheme),
-   
   ];
 
   List<Tab> _tabs = [];
